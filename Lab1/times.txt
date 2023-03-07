@@ -1,0 +1,45 @@
+int
+Time: 2.761395e+01
+register int
+Time: 1.999648e+01
+
+register unsigned int
+Time: 1.767659e+01
+
+local_size
+Time: 1.857445e+01
+
+dekrementacja
+Time: 1.758480e+01
+
++4
+Time: 1.571048e+01
+
++8
+Time: 1.565855e+01
+
+register double sum
+Time: 1.491477e+01
+zwinięta suma
+Time: 1.388141e+01
+
+transponowanie macierzy
+Time: 6.307824e+00
+
+globalna linearyzacja
+Time: 6.726979e+00
+
+dwa powyższe
+Time: 2.726878e+01
+
+
+
+
+
+
+
+
+
+
+
+
