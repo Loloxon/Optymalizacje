@@ -1,3 +1,4 @@
-ToolSet: 1.0 (local)Options: 
+ToolSet: w64 9.0 (local)@C:\Software\CLion 2023.1.1\bin\mingw
+Options: 
 
-Options:-DCMAKE_MAKE_PROGRAM=/home/loloxon/Desktop/clion-2022.3.2/bin/ninja/linux/x64/ninja
+Options:
